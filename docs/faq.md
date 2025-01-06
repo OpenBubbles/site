@@ -57,7 +57,7 @@ All the methods should end on a page like this:
 
 ## Can I register my phone number with OpenBubbles?
 
-If you have an iPhone running the relay app, yes. The phone must stay online at all times. Enter the relay code on the hardware identifier screen, and you will be prompted to register your number. Please refer to the [Phone Number Registration](Setup/pnr) page for more information.
+If you have an iPhone running the relay app, yes. The phone must stay online at all times. Enter the relay code on the hardware identifier screen, and you will be prompted to register your number. Please refer to the [Phone Number Registration](pnr) page for more information.
 
 ## Does OpenBubbles work with FindMy?
 
