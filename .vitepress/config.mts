@@ -14,8 +14,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Mac, iMessage, iPhone, and iCloud are trademarks of Apple Inc.',
-      copyright: 'Copyright © 2022-present OpenBubbles'
+      message: '<a href="/about">About</a><br>Mac, iMessage, FaceTime, iPhone, and iCloud are trademarks of Apple Inc.',
+      copyright: 'Copyright © 2024-present OpenBubbles',
     },
 
     sidebar: [

@@ -54,6 +54,13 @@ All the methods should end on a page like this:
 
 ![Foreground service](/foreground.png)
 
+## Can I use a VM with OpenBubbles?
+::: danger
+**Do not use data from a virtual machine.** **No**, it doesn't matter that iMessage works in the VM. **No**, your generated data is not "special" or "approved". Apple *knows* your hardware info is phony and any success you on the VM get is Apple being nice. Register another time with OB and there is a decent chance your account will be banned. Don't say I didn't warn you.
+:::
+
+## Will the Mac I use have access to my account?
+No. OpenBubbles impersonates the Mac, and the Mac is not even aware of the login and doesn't have any of the associated keys. If you see the Mac logged in on your Apple ID page, you are seeing OpenBubbles.
 
 ## Can I register my phone number with OpenBubbles?
 
@@ -72,7 +79,7 @@ No, at this time only receiving is supported. However, you can contribute media 
 
 ## Does OpenBubbles work with FaceTime?
 
-No, OpenBubbles does not work with FaceTime. Ask your friends to generate and send you a link, this is officially supported by Apple.
+Yes! Incoming FaceTime calls should ring automatically. You can see recent FaceTime calls or place one yourself by opening the FaceTime under the three-dot menu.
 
 ## Why are contacts I know are using iMessage showing up green?
 

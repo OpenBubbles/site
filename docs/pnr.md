@@ -27,8 +27,8 @@ This guide can be followed regardless of jailbreak status:
 Guide 1 - TrollStore
 
 1. Install TrollStore on your device (iOS 14 - iOS 17.0) - [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
-2. If you have testflight installed, delete it.
-3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file. Then open trollstore and sideload the file.
+2. If you have TestFlight installed, delete it.
+3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file in TrollStore.
 4. Input the code from the relay app in OpenBubbles (if you are changing from existing hardware, go to Settings -> Change Hardware).
 5. Enable Keep Awake and Dim Display
 6.  Optional Steps  - If you are jailbroken you can install the following tweaks (may not be compatible with your iOS version):
