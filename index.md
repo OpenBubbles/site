@@ -6,6 +6,9 @@ head:
   - - meta
     - name: description
       content: "Use iMessage across all your devices. Move past blue and green bubbles. Chat everywhere, seamlessly."
+  - - meta
+    - http-equiv: Content-Language
+      content: en
 
 hero:
   name: "OpenBubbles"

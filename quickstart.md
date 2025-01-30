@@ -19,14 +19,20 @@ outline: false
 # Quickstart
 
 ::: tip
-Apple **requires** hardware info from genuine Apple hardware to use iMessage. OpenBubbles works **best** with a Mac.
+Apple **requires** hardware info from genuine Apple hardware to use iMessage. Subscriptions coming soon. OpenBubbles works **best** with a Mac.
 :::
 
 ## Install OpenBubbles
 <a href="https://play.google.com/store/apps/details?id=com.openbubbles.messaging"><img src="/google_play_badge.png" class="getbtn" /></a>
 <a href="https://apps.microsoft.com/store/detail/9PJMSNSQD0FV"><img src="/get-ms.svg" class="getbtn" /></a>
 
-## Activate OpenBubbles
+## Hosted (monthly subscription)
+
+Get all OpenBubbles features (including turning your Android phone number into a blue bubble) without the need of an iPhone.
+
+[Join the waitlist](https://docs.google.com/forms/d/e/1FAIpQLSf0psSFctObU_2Ib44H4WZlXhwpy-nLWy-jteYExWgKZ_mnhg/viewform?usp=header)
+
+## Self-managed
 
 ### With a Mac
 
