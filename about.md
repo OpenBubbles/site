@@ -27,7 +27,7 @@ It **doesn't have to be physical or even spoken**. It just has to be a **clear a
 
 #### You deserve to be treated with respect and kindness. Unwarranted, recurring hostility in the classroom or workplace _is bullying and is never acceptable_.
 
-**Anyone can be a victim.** **Anyone can be a perpetrator.** If something is happening, know there is **no excuse.** You are **not the problem.** They **don't have to treat you this way.** It **won't fix itself.**
+**Anyone can be a victim.** **Anyone can be a perpetrator.** If something is happening, know there is **no excuse, especially if society has normalized the behavior outside a group.** You are **not the problem.** They **don't have to treat you this way.** It **won't fix itself.**
 
 **Stand up for what is right. Do not attack the bully, assert the behavior is unacceptable.** There are no winners or losers. There is a bully who needs help. Abusing others is unacceptable and isn't going to get them what they need. We owe it to everyone to hold us accountable for our actions and help us grow.
 

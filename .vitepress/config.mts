@@ -14,7 +14,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/about">About</a><br>Mac, iMessage, FaceTime, iPhone, and iCloud are trademarks of Apple Inc.',
+      message: '<a href="/about">About</a> &nbsp; <a href="https://www.paypal.com/donate/?hosted_button_id=MUZH6LH6ZGN6G">Donate</a><br>Mac, iMessage, FaceTime, iPhone, and iCloud are trademarks of Apple Inc.',
       copyright: 'Copyright © 2024-present OpenBubbles',
     },
 
