@@ -19,18 +19,24 @@ outline: false
 # Quickstart
 
 ::: tip
-Apple **requires** hardware info from genuine Apple hardware to use iMessage. OpenBubbles works **best** with a Mac.
+Apple **requires** hardware info from genuine Apple hardware to use iMessage. Subscriptions coming soon. OpenBubbles works **best** with a Mac.
 :::
 
 ## Install OpenBubbles
 <a href="https://play.google.com/store/apps/details?id=com.openbubbles.messaging"><img src="/google_play_badge.png" class="getbtn" /></a>
 <a href="https://apps.microsoft.com/store/detail/9PJMSNSQD0FV"><img src="/get-ms.svg" class="getbtn" /></a>
 
-## Activate OpenBubbles
+## Hosted (monthly subscription)
+
+Get all OpenBubbles features (including turning your Android phone number into a blue bubble) without the need of an iPhone.
+
+[Join the waitlist](https://docs.google.com/forms/d/e/1FAIpQLSf0psSFctObU_2Ib44H4WZlXhwpy-nLWy-jteYExWgKZ_mnhg/viewform?usp=header)
+
+## Self-managed
 
 ### With a Mac
 
-On a Mac, [download and run the QR code generator](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip). Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online.
+On a Mac, [download and run the QR code generator](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip). Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
 
 ::: info
 Your Mac can be shared with **up to 20 friends** with the App. However, it cannot register your phone number.
