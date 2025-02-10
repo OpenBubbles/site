@@ -28,6 +28,7 @@ export default defineConfig({
           { text: 'Renewal System', link: '/docs/renewal' },
           { text: 'Backup and Restore', link: '/docs/backupandrestore' },
           { text: 'Troubleshooting', link: '/docs/troubleshooting' },
+          { text: 'App Features', link: '/docs/features' },
         ]
       },
       {
