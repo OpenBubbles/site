@@ -42,7 +42,7 @@ If you are on older iOS versions (10 - 14) and jailbroken follow these steps:
 
 1. Download Copperboy100's - [RelayServer](https://github.com/OpenBubbles/relayserver/releases). -arm is for iOS 10 - 14 (rootful), -arm64 is for iOS 15 - 16.5 (rootless)
 2. Install RelayServer 
-3. Retrieve the relay code in /var/mobile
+3. Retrieve the relay code in /var/mobile/config.json. You can find this using an app like Filza.
 4. Input the code from the relay app in OpenBubbles (if you are changing from existing hardware, go to Settings -> Change Hardware).
 
 ## DO NOT USE
