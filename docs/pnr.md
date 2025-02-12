@@ -38,7 +38,7 @@ Guide 1 - TrollStore
 
 ### Method 2
 
-If you are on older iOS versions (10 - 14) and jailbroken follow these steps: 
+If you are on older iOS versions (10 - 16.5) and jailbroken follow these steps: 
 
 1. Download Copperboy100's - [RelayServer](https://github.com/OpenBubbles/relayserver/releases). -arm is for iOS 10 - 14 (rootful), -arm64 is for iOS 15 - 16.5 (rootless)
 2. Install RelayServer 
