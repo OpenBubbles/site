@@ -8,6 +8,16 @@ outline: false
 
 ---
 
+<script setup>
+    import { ref, onMounted } from 'vue'
+
+    const subscriptionAvailable = ref(false)
+    onMounted(async () => {
+        const res = await fetch('https://hw.openbubbles.app/status');
+        subscriptionAvailable.value = (await res.json()).available
+    })
+</script>
+
 <style>
     .getbtn {
         height: 50px;
@@ -30,7 +40,12 @@ Apple **requires** hardware info from genuine Apple hardware to use iMessage. Su
 
 Get all OpenBubbles features (including turning your Android phone number into a blue bubble) without the need of an iPhone.
 
-[Join the waitlist](https://docs.google.com/forms/d/e/1FAIpQLSf0psSFctObU_2Ib44H4WZlXhwpy-nLWy-jteYExWgKZ_mnhg/viewform?usp=header)
+<div v-if="subscriptionAvailable">
+Now available! Choose "Hosted" during setup, for a $10/mo subscription fee and a 7-day trial.
+</div>
+<div v-else>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0psSFctObU_2Ib44H4WZlXhwpy-nLWy-jteYExWgKZ_mnhg/viewform?usp=header">Join the waitlist</a>
+</div>
 
 ## Self-managed
 
