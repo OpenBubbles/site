@@ -15,7 +15,7 @@ head:
 hero:
   name: "OpenBubbles"
   text: "Finally, be a blue bubble on Android"
-  tagline: iMessage + FaceTime and more for your Android number
+  tagline: Get Apple Services on your Android, including iMessage and FaceTime, with your Android number.
   image:
     src: /MessagesDesktop-joined3.png
     alt: OpenBubbles
@@ -190,12 +190,11 @@ features:
 </script>
 
 <div class="footer" id="hosted-waitlist">
-  <img src="/icon.png" />
-    <h1>Join the waitlist!</h1>
-    <h3>Turn your Android phone number into a blue bubble without the need of an iPhone or other Apple device.</h3>
+    <h1>Get notified</h1>
+    <h3>All of our devices are currently allocated, but more are coming soon!</h3>
 
 <form action="https://hw.openbubbles.app/waitlist" method="POST" @submit="checkTurnstile">
-<label for="emailimp">Email</label>
+<label for="emailimp">Email for notification</label>
 <input type="email" name="email" id="emailimp" placeholder="Enter email here" class="myinput" required/>
 
 <input type="hidden" name="price_okay" value="okay">
@@ -206,7 +205,7 @@ features:
 <input type="submit" value="Join waitlist">
 </form>
 
-There will be a monthly fee for OpenBubbles Hosted. <a href="/quickstart.html">Self-host now for free.</a>
+There is a $9.99 USD monthly fee for OpenBubbles Hosted. <a href="/quickstart.html">Self-host now for free.</a>
 <div class="background" />
 </div>
 
