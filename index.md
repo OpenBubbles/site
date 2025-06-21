@@ -21,8 +21,8 @@ hero:
     alt: OpenBubbles
   actions:
     - theme: brand
-      text: Join the waitlist
-      link: /#hosted-waitlist
+      text: Get Started
+      link: /#hosted
     - theme: alt
       text: Self-host
       link: /quickstart
@@ -192,7 +192,7 @@ features:
     })
 </script>
 
-<div class="footer" id="hosted-waitlist">
+<div class="footer" id="hosted">
   <h1 v-if="!isAvailable">Get notified</h1>
   <h3 v-if="!isAvailable">All of our devices are currently allocated, but more are coming soon!</h3>
   <h1 v-if="isAvailable">Be a Blue Bubble</h1>
