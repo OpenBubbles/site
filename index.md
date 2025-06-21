@@ -93,15 +93,6 @@ features:
   overflow: hidden;
 }
 
-.footer img {
-  width: 70px;
-  display: inline;
-  padding: 5px;
-  border-radius: 6px;
-  background-color: var(--vp-c-default-soft);
-  margin-bottom: 50px;
-}
-
 .footer h3 {
   margin: 25px 0 !important;
   font-weight: 400 !important;
@@ -173,11 +164,17 @@ features:
       opacity: 0;
       width: 0;
     } */
+
+     .getbtn {
+        height: 50px;
+        display: inline;
+        padding-right: 10px;
+    }
 </style>
 
 <script setup>
   import VueTurnstile from 'vue-turnstile';
-  import { ref } from 'vue';
+  import { ref, onMounted } from 'vue';
 
   let turnstileToken = ref("");
 
@@ -187,13 +184,21 @@ features:
       alert("Please verify you're human.");
     }
   }
+
+  const isAvailable = ref(false);
+    onMounted(async () => {
+      const res = await fetch('https://hw.openbubbles.app/status');
+      isAvailable.value = (await res.json()).available;
+    })
 </script>
 
 <div class="footer" id="hosted-waitlist">
-    <h1>Get notified</h1>
-    <h3>All of our devices are currently allocated, but more are coming soon!</h3>
+  <h1 v-if="!isAvailable">Get notified</h1>
+  <h3 v-if="!isAvailable">All of our devices are currently allocated, but more are coming soon!</h3>
+  <h1 v-if="isAvailable">Get Blue Bubbles</h1>
+  <h3 v-if="isAvailable">Start using iMessage on Android today.</h3>
 
-<form action="https://hw.openbubbles.app/waitlist" method="POST" @submit="checkTurnstile">
+  <form v-if="!isAvailable" action="https://hw.openbubbles.app/waitlist" method="POST" @submit="checkTurnstile">
 <label for="emailimp">Email for notification</label>
 <input type="email" name="email" id="emailimp" placeholder="Enter email here" class="myinput" required/>
 
@@ -204,6 +209,8 @@ features:
 
 <input type="submit" value="Join waitlist">
 </form>
+
+<a v-if="isAvailable" href="https://play.google.com/store/apps/details?id=com.openbubbles.messaging"><img src="/google_play_badge.png" class="getbtn" /></a>
 
 There is a $9.99 USD monthly fee for OpenBubbles Hosted. <a href="/quickstart.html">Self-host now for free.</a>
 <div class="background" />
