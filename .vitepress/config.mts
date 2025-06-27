@@ -9,6 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'OpenPigeon', link: '/openpigeon' },
       { text: 'Self-host', link: '/quickstart' },
       { text: 'Blog', link: '/blog' },
       { text: 'FAQ & docs', link: '/docs/faq' },

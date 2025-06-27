@@ -53,6 +53,9 @@ features:
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5CA7F8 30%, #256cb9);
+  --vp-button-brand-bg: var(--vp-c-brand-3);
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
 }
 
 @media (min-width: 960px) {
