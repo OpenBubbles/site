@@ -59,43 +59,43 @@ hero:
 <div class="swiper">
     <div style="padding-left: 14px; width: 0;"> </div>
     <div>
-        <img src="/op-screenshots/cuppong.jpg"/>
+        <img src="/op-screenshots/cuppong.jpg" alt="Cup Pong"/>
         <span>Cup Pong</span>
     </div>
     <div>
-        <img src="/op-screenshots/basketball.jpg"/>
+        <img src="/op-screenshots/basketball.jpg" alt="Basketball"/>
         <span>Basketball</span>
     </div>
     <div>
-        <img src="/op-screenshots/crazy8.jpg"/>
+        <img src="/op-screenshots/crazy8.jpg" alt="Crazy 8"/>
         <span>Crazy 8</span>
     </div>
     <div>
-        <img src="/op-screenshots/archery.jpg"/>
+        <img src="/op-screenshots/archery.jpg" alt="Archery"/>
         <span>Archery</span>
     </div>
     <div>
-        <img src="/op-screenshots/wordhunt.jpg"/>
+        <img src="/op-screenshots/wordhunt.jpg" alt="Wordhunt"/>
         <span>Wordhunt</span>
     </div>
     <div>
-        <img src="/op-screenshots/battleship.jpg"/>
+        <img src="/op-screenshots/battleship.jpg" alt="Battleship"/>
         <span>Battleship</span>
     </div>
     <div>
-        <img src="/op-screenshots/checkers.jpg"/>
+        <img src="/op-screenshots/checkers.jpg" alt="Checkers"/>
         <span>Checkers</span>
     </div>
     <div>
-        <img src="/op-screenshots/darts.jpg"/>
+        <img src="/op-screenshots/darts.jpg" alt="Darts"/>
         <span>Darts</span>
     </div>
     <div>
-        <img src="/op-screenshots/connect4.jpg"/>
+        <img src="/op-screenshots/connect4.jpg" alt="Connect 4"/>
         <span>Connect 4</span>
     </div>
     <div>
-        <img src="/op-screenshots/pool.jpg"/>
+        <img src="/op-screenshots/pool.jpg" alt="8 Ball"/>
         <span>8 Ball</span>
     </div>
 </div>
