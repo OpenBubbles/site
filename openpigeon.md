@@ -2,6 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+pageClass: openpigeon-page
+
 title: Play GamePigeon on Android
 
 head:
@@ -116,7 +118,7 @@ We're [Open Source on GitHub!](https://github.com/OpenBubbles/OpenPigeon) We're 
 
 
 <style>
-:root {
+.openpigeon-page {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #f85c5c 30%, #f8995c);
   --vp-button-brand-bg: #f85c5c;
@@ -134,12 +136,6 @@ We're [Open Source on GitHub!](https://github.com/OpenBubbles/OpenPigeon) We're 
     .image-src {
         max-width: 336px;
         max-height: 256px;
-    }
-}
-
-@media (max-width: 767px) {
-    .vp-doc {
-      padding: 0 24px !important;
     }
 }
 
