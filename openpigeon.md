@@ -37,7 +37,7 @@ hero:
         display: inline-block;
         width: 80%;
         padding: 5px;
-        max-width: 400px;
+        max-width: 300px;
         text-align: center;
         font-weight: 600;
         font-size: 18px;
