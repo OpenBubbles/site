@@ -24,7 +24,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /openpigeon/#ready-to-go
+      link: /openpigeon/#are-you-ready-to-go
 ---
 
 <style scoped>
@@ -105,7 +105,7 @@ hero:
 <br>
 
 
-# Ready to go?
+# Are you ready to go?
 You'll need [OpenBubbles](/index.html) (for iMessage) before you can start using OpenPigeon and playing with your friends.
 <br>
 <br>
