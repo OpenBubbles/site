@@ -43,8 +43,8 @@ features:
     title: True end-to-end encryption
     details: No one can read your messages, not even OpenBubbles or Apple.
   - icon: 🎉
-    title: Reactions and Replies
-    details: React, reply, edit, and unsend formatted messages with your friends.
+    title: GamePigeon, Reactions and Replies
+    details: <a href="/openpigeon" class="op-link">Play GamePigeon</a>, react, reply, edit, and unsend formatted messages with your friends.
   - icon: 🌐
     title: Serverless
     details: Unlike other apps, OpenBubbles talks directly to Apple. One-time access to a Mac or an always-online iPhone is required for activation
@@ -52,6 +52,10 @@ features:
 ---
 
 <style>
+.op-link {
+  color: var(--vp-c-brand-1);
+  text-decoration: underline;
+}
 .index-page {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5CA7F8 30%, #256cb9);
