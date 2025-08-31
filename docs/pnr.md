@@ -9,7 +9,7 @@ Learn how to get your phone number working on iMessage. The app will default to 
 You can also choose to skip logging in with Apple Account. This may lead to less issues in some cases.
 
 ## Pre-Setup | Do this first
-Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
+Make sure iMessage and Facetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification. Log out of any Apple Account on the device. OpenBubbles does not support login via app-specific passwords and hardware keys.
 
 ## Sim / eSim Swaping Methods
 

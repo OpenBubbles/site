@@ -2,7 +2,10 @@
 # Backup & Restore
 ::: info
 OpenBubbles does not support iCloud backups.
+
 OpenBubbles **only** supports local backup and restore. (Only attachments under 16mb saved)
+
+OpenBubbles cannot import messages from BlueBubbles.
 :::
 
 
