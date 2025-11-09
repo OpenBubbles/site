@@ -22,14 +22,17 @@ outline: false
 Apple **requires** hardware info from genuine Apple hardware to use iMessage. [Join the waitlist](/#hosted-waitlist) for a ready-to-go hosted solution. OpenBubbles works **best** with a Mac.
 :::
 
-## Install OpenBubbles
+## Step 1. Install OpenBubbles
+
+Install OpenBubbles on your preferred device:
+
 <a href="https://play.google.com/store/apps/details?id=com.openbubbles.messaging"><img src="/google_play_badge.png" class="getbtn" /></a>
 <a href="https://apps.microsoft.com/store/detail/9PJMSNSQD0FV"><img src="/get-ms.svg" class="getbtn" /></a>
 <a href="https://flathub.org/apps/app.openbubbles.OpenBubbles"><img src="/badge-flathub.svg" class="getbtn" /></a>
 
 
 
-## Activate OpenBubbles
+## Step 2. Activate OpenBubbles
 
 ### With a Mac
 
