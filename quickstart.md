@@ -18,6 +18,10 @@ outline: false
 
 # Self-host Guide
 
+::: tip 
+We recommend reading this entire guide thoroughly before proceeding.
+:::
+
 ## What is hardware info?
 
 During activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation.
