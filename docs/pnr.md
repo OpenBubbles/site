@@ -22,7 +22,7 @@ Sim swapping is a method which involves using an iPhone to register a number, an
 Keep the device on at all times and connected to Wi-Fi in order to keep your number registered. 
 While not required, leaving the display on may improve reliability.
 
-#### Method 1 - Validation Relay
+:::: details Method 1 - Validation Relay
 There are multiple ways to install Validation Relay, dependening on iOS version and device hardware. 
 This guide can be followed regardless of jailbreak status: 
  
@@ -39,7 +39,9 @@ Guide 1 - TrollStore
     * [ChargeLimiter](https://github.com/lich4/ChargeLimiter?tab=readme-ov-file#Introduction) to limit charge of the battery
     * [Immortalizer](https://havoc.app/package/immortalizer) to keep the relay app in the active while the screen is off.
 
-#### Method 2
+::::
+
+:::: details Method 2
 
 If you are on older iOS versions (10 - 14) and jailbroken follow these steps: 
 
@@ -48,6 +50,8 @@ If you are on older iOS versions (10 - 14) and jailbroken follow these steps:
 3. Retrieve the relay code in /var/mobile/config.json. You can find this using an app like Filza.
 4. For best results, sign out of any Apple ID on the device.
 5. Input the code from the relay app in OpenBubbles (if you are changing from existing hardware, go to Settings -> Change Hardware).
+
+::::
 
 ## DO NOT USE
 ~~[ThatMarcel's beepserv-rewrite](https://github.com/thatmarcel/beepserv-rewrite)~~
