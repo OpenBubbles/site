@@ -1,5 +1,10 @@
 
 # Phone Number Registration <Badge type="danger" text="Caution"/>
+
+::: tip 
+Using an iPhone requires significant setup. We recommend reading this entire guide thoroughly before proceeding.
+:::
+
 ::: warning
 
 The following guide contains links to third-party websites that are not affiliated with OpenBubbles and their contents can change at any time. Use at your own risk.
@@ -7,9 +12,7 @@ The following guide contains links to third-party websites that are not affiliat
 
 This guide will explain how to get your phone number working on iMessage.
 
-Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **BEST** with Mac hardware info.
-
-We recommend reading this guide thoroughly at least once before beginning any setup.
+Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **best** with Mac hardware info.
 
 ## Key Information 
 
