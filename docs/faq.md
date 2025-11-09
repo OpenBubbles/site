@@ -3,7 +3,7 @@
 
 ## What is "Hardware Info"?&#x20;
 
-See [activation](/quickstart.html#activate-openbubbles)
+See [activation](/quickstart#what-is-hardware-info)
 
 ## How can I obtain hardware info?
 
