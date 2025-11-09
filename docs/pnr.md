@@ -1,12 +1,15 @@
 
-# Phone Number Registration
-::: info
-Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **BEST** with Mac hardware codes.
+# Phone Number Registration <Badge type="danger" text="Caution"/>
+::: warning
 
 The following guide contains links to third-party websites that are not affiliated with OpenBubbles and their contents can change at any time. Use at your own risk.
 :::
-Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings or setup. 
-You can also choose to skip logging in with Apple Account. This may lead to less issues in some cases.
+
+This guide will explain how to get your phone number working on iMessage.
+
+Phone Number Registration may not be as reliable as Mac registration, and different carriers may not play nicely. OpenBubbles operates **BEST** with Mac hardware info.
+
+We recommend reading this guide thoroughly at least once before beginning any setup.
 
 ## Step 1. Pre-Setup
 Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
@@ -22,7 +25,7 @@ Sim swapping is a method which involves using an iPhone to register a number, an
 Keep the device on at all times and connected to Wi-Fi in order to keep your number registered. 
 While not required, leaving the display on may improve reliability.
 
-:::: details Method 1 - Validation Relay
+:::: details Method 1 - iOS 14.0 - iOS 17.0
 There are multiple ways to install Validation Relay, dependening on iOS version and device hardware. 
 This guide can be followed regardless of jailbreak status: 
  
@@ -41,7 +44,7 @@ Guide 1 - TrollStore
 
 ::::
 
-:::: details Method 2
+:::: details Method 2 - iOS 10.0 - 14.0 (Jailbreak Required)
 
 If you are on older iOS versions (10 - 14) and jailbroken follow these steps: 
 
