@@ -16,7 +16,7 @@ We recommend reading this guide thoroughly at least once before beginning any se
 Maintaining registration requires the iPhone and relay to stay online. Apple can force a re-registeration at any time, therefore **your iPhone must be online at all times** once setup has been completed. If you're iPhone or relay is offline when Apple re-registers your phone number may be deregistered.
 
 ## Step 1. Pre-Setup
-Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
+Make sure iMessage and Facetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
 
 ## Step 2. Activation
 
@@ -31,21 +31,26 @@ This method installs a Relay App to communicate the iPhone's hardware info to Op
 While not required, leaving the display on may improve reliability.
 
 :::: details Method 1 - iOS 14.0 - iOS 17.0
-There are multiple ways to install Validation Relay, dependening on iOS version and device hardware. 
-This guide can be followed regardless of jailbreak status: 
- 
-Guide 1 - TrollStore
 
-1. Install TrollStore on your device (iOS 14 - iOS 17.0) - [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
-2. If you have TestFlight installed, delete it.
-3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file in TrollStore.
-4. For best results, sign out of any Apple ID on the device.
-5. Input the code from the relay app in OpenBubbles (if you are changing from existing hardware, go to Settings -> Change Hardware).
-6. Enable Keep Awake and Dim Display
-7.  Optional Steps  - If you are jailbroken you can install the following tweaks (may not be compatible with your iOS version):
-    * [AdvancedBrightnessSlider](https://havoc.app/package/advancedbright) to lower the risk of screen burn in
-    * [ChargeLimiter](https://github.com/lich4/ChargeLimiter?tab=readme-ov-file#Introduction) to limit charge of the battery
-    * [Immortalizer](https://havoc.app/package/immortalizer) to keep the relay app in the active while the screen is off.
+There are multiple ways to install the Relay App, dependening on iOS version and device hardware. This method will sideload TrollStore on your phone, which will allow you to sideload the relay app.
+
+This guide can be followed regardless of jailbreak status: 
+
+1. Install TrollStore on your device (iOS 14.0 - iOS 17.0) via the [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
+
+* If you have TestFlight installed, delete it.
+
+2. Download JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) on your iPhone and sideload the TIPA file in TrollStore.
+
+3. Input the code from the relay app in OpenBubbles.
+* If you are changing from existing hardware, go to Settings -> Change Hardware.
+
+4. Enable Keep Awake and Dim Display
+
+If you are jailbroken you can install the following tweaks (may not be compatible with your iOS version):
+* [AdvancedBrightnessSlider](https://havoc.app/package/advancedbright) to lower the risk of screen burn in
+* [ChargeLimiter](https://github.com/lich4/ChargeLimiter?tab=readme-ov-file#Introduction) to limit charge of the battery
+* [Immortalizer](https://havoc.app/package/immortalizer) to keep the relay app in the active while the screen is off.
 
 ::::
 
