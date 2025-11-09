@@ -75,3 +75,10 @@ Using an iPhone is **not recommended for new users**. It only works on certain i
 ::::
 
 See [Phone Number Registration](/docs/pnr)
+
+## Getting help
+
+If you experience an issue while following this guide, there are multiple ways you can get help.
+* If you have any questions that haven't been answered on this page, their answers might be in the [FAQ](/docs/faq).
+* If you experience an issue while following this guide, you can check the [Troubleshooting](/docs/troubleshooting.md) page for a solution.
+* If the resources we've provided here aren't helping, you can get support over at the [OpenBubbles Discord Server](https://discord.com/invite/MWxPgEp).
