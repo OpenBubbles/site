@@ -78,9 +78,9 @@ The hardware info of a single Mac can be shared with **up to 20 friends** with t
 Using an iPhone is **not recommended for new users**. It only works on certain iOS versions and models, and requires significant setup. The iPhone must stay online at all times, and can only be used by one user. However, if you wish to use iMessage with a phone number an iPhone, this method is required.
 :::
 
-::::
-
 See [Phone Number Registration](/docs/pnr)
+
+::::
 
 ## Getting help
 
