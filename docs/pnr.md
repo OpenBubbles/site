@@ -65,8 +65,11 @@ If you are on older iOS versions (10 - 14) and jailbroken follow these steps:
 
 ### Option B. Sim / eSim Swaping Methods
 
-Sim swapping is a method which involves using an iPhone to register a number, and then using OpenBubbles normally with Mac hardware data. You can follow the same guides used for BlueBubbles. However, this method can be even more unreliable than OB.
-[All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
+**Sim swapping** is a method which involves using an iPhone to register a number, and then using OpenBubbles normally with Mac hardware data and returning your sim back into your android device.
+
+This method can be unreliable and your milage may vary.
+
+See [All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
 
 ## DO NOT USE
 ~~[ThatMarcel's beepserv-rewrite](https://github.com/thatmarcel/beepserv-rewrite)~~
