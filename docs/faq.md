@@ -3,8 +3,7 @@
 
 ## What is "Hardware Info"?&#x20;
 
-During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation. 
-OpenBubbles requires valid machine identifiers to send to Apple during activation. OpenBubbles refers to this data as "hardware info".
+See [activation](/quickstart.html#activate-openbubbles)
 
 ## How can I obtain hardware info?
 
