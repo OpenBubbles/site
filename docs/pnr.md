@@ -26,7 +26,8 @@ Sim swapping is a method which involves using an iPhone to register a number, an
 [All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
 
 ### Option B. Relay App
-Keep the device on at all times and connected to Wi-Fi in order to keep your number registered. 
+This method installs a Relay App to communicate the iPhone's hardware info to OpenBubbles. Apple limits the installation of apps to it's App Store, this guide will circumvent this, this is called **sideloading**.
+
 While not required, leaving the display on may improve reliability.
 
 :::: details Method 1 - iOS 14.0 - iOS 17.0
