@@ -11,6 +11,10 @@ Phone Number Registration may not be as reliable as Mac registration, and differ
 
 We recommend reading this guide thoroughly at least once before beginning any setup.
 
+## Key Information 
+
+Maintaining registration requires the iPhone and relay to stay online. Apple can force a re-registeration at any time, therefore **your iPhone must be online at all times** once setup has been completed. If you're iPhone or relay is offline when Apple re-registers your phone number may be deregistered.
+
 ## Step 1. Pre-Setup
 Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
 
