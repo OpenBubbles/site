@@ -22,6 +22,11 @@ outline: false
 Apple **requires** hardware info from genuine Apple hardware to use iMessage. [Join the waitlist](/#hosted-waitlist) for a ready-to-go hosted solution. OpenBubbles works **best** with a Mac.
 :::
 
+## What is "Hardware Info"?&#x20;
+
+During iMessage activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation. 
+OpenBubbles requires valid machine identifiers to send to Apple during activation. OpenBubbles refers to this data as "hardware info".
+
 ## Step 1. Install OpenBubbles
 
 Install OpenBubbles on your preferred device:
