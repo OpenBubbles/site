@@ -22,6 +22,12 @@ outline: false
 We recommend reading this entire guide thoroughly before proceeding.
 :::
 
+## What is Openbubbles?
+
+**OpenBubbles** is an open-source and cross-platform ecosystem of apps aimed to bring Apple platform services (including iMessage and FaceTime) to Android, Windows and Linux.
+
+OpenBubbles works by using the "hardware info" of an Apple Mac or iPhone to register with Apple, allowing the use of their services.
+
 ## What is hardware info?
 
 During activation, your machine's hardware identifiers (serial number, board ID, model, etc.) are sent to Apple for validation.
