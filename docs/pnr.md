@@ -8,19 +8,21 @@ The following guide contains links to third-party websites that are not affiliat
 Learn how to get your phone number working on iMessage. The app will default to sending to whatever handle is chosen in settings or setup. 
 You can also choose to skip logging in with Apple Account. This may lead to less issues in some cases.
 
-## Pre-Setup | Do this first
+## Step 1. Pre-Setup
 Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
 
-## Sim / eSim Swaping Methods
+## Step 2. Activation
+
+### Option A. Sim / eSim Swaping Methods
 
 Sim swapping is a method which involves using an iPhone to register a number, and then using OpenBubbles normally with Mac hardware data. You can follow the same guides used for BlueBubbles. However, this method can be even more unreliable than OB.
 [All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
 
-## Relay Apps
+### Option B. Relay App
 Keep the device on at all times and connected to Wi-Fi in order to keep your number registered. 
 While not required, leaving the display on may improve reliability.
 
-### Method 1 - Validation Relay
+#### Method 1 - Validation Relay
 There are multiple ways to install Validation Relay, dependening on iOS version and device hardware. 
 This guide can be followed regardless of jailbreak status: 
  
@@ -37,7 +39,7 @@ Guide 1 - TrollStore
     * [ChargeLimiter](https://github.com/lich4/ChargeLimiter?tab=readme-ov-file#Introduction) to limit charge of the battery
     * [Immortalizer](https://havoc.app/package/immortalizer) to keep the relay app in the active while the screen is off.
 
-### Method 2
+#### Method 2
 
 If you are on older iOS versions (10 - 14) and jailbroken follow these steps: 
 
