@@ -46,7 +46,8 @@ Setup with a Mac is the most easiest, **and recommended**, however a Mac install
 
 :::: details Option A. With a Mac <Badge type="tip" text="Recommended"/>
 
-On a Mac, [download and run the QR code generator](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip). Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
+1. On a Mac, [download and run the QR code generator](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip).
+2. Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
 
 ::: info
 Your Mac can be shared with **up to 20 friends** with the App. However, it cannot register your phone number.
@@ -55,9 +56,10 @@ Your Mac can be shared with **up to 20 friends** with the App. However, it canno
 ::::
 
 :::: details Option B. From another OpenBubbles app (Mac hardware info only) 
-Open OpenBubbles, then go to Settings -> Your Mac.
 
-Scan the QR code on another device or share an activation link with your friend.
+1. Open OpenBubbles, then go to Settings -> Your Mac.
+
+2. Scan the QR code on another device or share an activation link with your friend.
 
 If no code shows, the owner of the Mac has chosen to prevent further sharing.
 
