@@ -38,9 +38,11 @@ Install OpenBubbles on your preferred device:
 <a href="https://apps.microsoft.com/store/detail/9PJMSNSQD0FV"><img src="/get-ms.svg" class="getbtn" /></a>
 <a href="https://flathub.org/apps/app.openbubbles.OpenBubbles"><img src="/badge-flathub.svg" class="getbtn" /></a>
 
-
-
 ## Step 2. Activate OpenBubbles
+
+OpenBubbles can be activated by using the hardware info of a Mac, an iPhone or from another OpenBubbles user who has activated OpenBubbles using Mac hardware info. 
+
+Setup with a Mac is the most easiest, **and recommended**, however a Mac install will only allow for platform services to be registered with your iCloud email. To register a phone number, an iPhone is required.
 
 ### With a Mac
 
