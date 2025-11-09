@@ -46,8 +46,10 @@ Setup with a Mac is the most easiest, **and recommended**, however a Mac install
 
 :::: details Option A. With a Mac <Badge type="tip" text="Recommended"/>
 
-1. On a Mac, [download and run the QR code generator](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip).
-2. Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
+1. On a Mac, [download and run the QR code generator program](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip).
+    * If you wish to limit your Mac hardware info to one iCloud account, tick "Prevent Sharing".
+2. Open your other device you installed OpenBubbles earlier. 
+3. Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
 
 ::: info
 Your Mac can be shared with **up to 20 friends** with the App. However, it cannot register your phone number.
@@ -57,11 +59,11 @@ Your Mac can be shared with **up to 20 friends** with the App. However, it canno
 
 :::: details Option B. From another OpenBubbles app (Mac hardware info only) 
 
-1. Open OpenBubbles, then go to Settings -> Your Mac.
+The hardware info of a single Mac can be shared with **up to 20 friends** with the App. This method assumes you know someone who has already setup a self-hosted OpenBubbles instance, and is willing to share their Mac hardware info.
 
-2. Scan the QR code on another device or share an activation link with your friend.
-
-If no code shows, the owner of the Mac has chosen to prevent further sharing.
+1. On the other device, OpenBubbles and go to: Settings -> Your Mac.
+2. Scan the QR code on another device with the OpenBubbles or share an activation link with your friend.
+* If no code shows, the owner of the Mac has chosen to prevent further sharing during setup.
 
 ::::
 
