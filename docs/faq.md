@@ -1,4 +1,5 @@
 ---
+
 prev: false
 next: false
 
@@ -32,7 +33,7 @@ See [Activation](/quickstart.html#activate-openbubbles).
 
 ::::
 
-:::: details Does the Mac need to stay online?;
+:::: details Does the Mac need to stay online?
 
 No! Once you have setup OpenBubbles, feel free to turn off, discard, or do anything you wish with your Mac. Keep in mind the physical Mac may still be useful for troubleshooting.
 
@@ -132,24 +133,30 @@ This is a known issue and fixes itself after 24 hours.
 
 ## Platform Features FAQ
 
-:::: details  Can OpenBubbles import existing messages? 
+:::: details Can OpenBubbles import existing messages? 
+
+::: warning
+Restoring messages from iCloud is currently in **beta**, you may experience issues.
+:::
+
 * If you have a previous OpenBubbles message backup, yes. To create or restore one, go to Settings -> Backup & Restore -> Messages Backups.
-* If you do not have an OpenBubbles message backup, not at this time. OpenBubbles cannot backfill messages from iCloud.
+* To restore messages stores in iCloud, go to Settings -> Profile -> Messages in iCloud (BETA).
 
 ::::
 
-:::: details  Does OpenBubbles work with FindMy?
+:::: details Does OpenBubbles work with FindMy?
 
-Yes! Access the Find My page from the top 3 dots on the main screen. If no Find My option appears, you need to re-log in. Choose "Change Hardware" in settings.
-* AirTags are not supported
-* Sharing live location with other users is not supported
+Yes! Access the Find My page from the top 3 dots on the main screen -> Maps. If this option doesn't appear, you need to re-log in. Choose "Change Hardware" in settings.
+
+* AirTags are supported.
+* Sharing live location with other users is **not** supported.
 * Receiving shared locations through Find My and iMessage is supported
 * Tracking other devices is supported
 
 ::::
 
-:::: details  Can I create shared albums?
-No, at this time only receiving is supported. However, you can contribute media to shared albums you are invited to.
+::: details Can I create shared albums?
+No, at this time only receiving is supported. However, you can contribute media to shared albums you are invited to. You can access this from the top 3 dots on the main screen -> Shared Albums.
 
 ::::
 
