@@ -20,12 +20,9 @@ Make sure iMessage and Facetime is disabled on your iPhone. You also need to dis
 
 ## Step 2. Activation
 
-### Option A. Sim / eSim Swaping Methods
+There are two methods to setup phone number registration:
 
-Sim swapping is a method which involves using an iPhone to register a number, and then using OpenBubbles normally with Mac hardware data. You can follow the same guides used for BlueBubbles. However, this method can be even more unreliable than OB.
-[All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
-
-### Option B. Relay App
+### Option A. Relay App <Badge type="tip" text="Recommended" />
 This method installs a Relay App to communicate the iPhone's hardware info to OpenBubbles. Apple limits the installation of apps to it's App Store, this guide will circumvent this, this is called **sideloading**.
 
 While not required, leaving the display on may improve reliability.
@@ -65,6 +62,11 @@ If you are on older iOS versions (10 - 14) and jailbroken follow these steps:
 5. Input the code from the relay app in OpenBubbles (if you are changing from existing hardware, go to Settings -> Change Hardware).
 
 ::::
+
+### Option B. Sim / eSim Swaping Methods
+
+Sim swapping is a method which involves using an iPhone to register a number, and then using OpenBubbles normally with Mac hardware data. You can follow the same guides used for BlueBubbles. However, this method can be even more unreliable than OB.
+[All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
 
 ## DO NOT USE
 ~~[ThatMarcel's beepserv-rewrite](https://github.com/thatmarcel/beepserv-rewrite)~~
