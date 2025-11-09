@@ -51,13 +51,13 @@ Setup with a Mac is the most easiest, **and recommended**, however a Mac install
 2. Open your other device you installed OpenBubbles earlier. 
 3. Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
 
-::: info
-Your Mac can be shared with **up to 20 friends** with the App. However, it cannot register your phone number.
-:::
-
 ::::
 
 :::: details Option B. From another OpenBubbles app (Mac hardware info only) 
+
+::: warning
+You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _**will**_ be blocked. If you share one device with over 20 users, you may experience issues.
+:::
 
 The hardware info of a single Mac can be shared with **up to 20 friends** with the App. This method assumes you know someone who has already setup a self-hosted OpenBubbles instance, and is willing to share their Mac hardware info.
 
