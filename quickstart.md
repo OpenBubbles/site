@@ -44,7 +44,7 @@ OpenBubbles can be activated by using the hardware info of a Mac, an iPhone or f
 
 Setup with a Mac is the most easiest, **and recommended**, however a Mac install will only allow for platform services to be registered with your iCloud email. To register a phone number, an iPhone is required.
 
-:::: details With a Mac
+:::: details Option A. With a Mac <Badge type="tip" text="Recommended"/>
 
 On a Mac, [download and run the QR code generator](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip). Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
 
@@ -54,7 +54,7 @@ Your Mac can be shared with **up to 20 friends** with the App. However, it canno
 
 ::::
 
-:::: details From another device (Mac Hardware only)
+:::: details Option B. From another OpenBubbles app (Mac hardware info only) 
 Open OpenBubbles, then go to Settings -> Your Mac.
 
 Scan the QR code on another device or share an activation link with your friend.
@@ -63,7 +63,7 @@ If no code shows, the owner of the Mac has chosen to prevent further sharing.
 
 ::::
 
-:::: details With an iPhone <Badge type="danger" text="caution" />
+:::: details Option C. With an iPhone <Badge type="danger" text="Caution" />
 ::: danger
 Using an iPhone is **not recommended for new users**. It only works on certain iOS versions and models, and requires significant setup. The iPhone must stay online at all times, and can only be used by one user. However, Android phone numbers **can** be registered with an iPhone (without a second SIM).
 :::
