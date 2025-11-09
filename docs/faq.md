@@ -1,37 +1,50 @@
+---
+prev: false
+next: false
+
+---
 
 # Frequently Asked Questions
 
-:::: details  What is "Hardware Info"?
+## Hardware FAQ
 
-See [activation](/quickstart#what-is-hardware-info)
+:::: details Is OpenBubbles safe to use?
 
-::::
+Everything happens locally, on your phone or computer. Anything that happens is strictly between you and Apple. An immense effort has been made to ensure a reliable and safe experience.
 
-:::: details  How can I obtain hardware info?
+That being said, iMessage is a complex and changing system, and every situation cannot be predicted. Most issues will only affect OpenBubbles, and will not affect other devices or your account. In extremely rare cases, your account may be temporarily (day or two) or permanently blocked. In permanent cases, a call with Apple support will usually lift the block.
 
-See [activation](/quickstart.html#activate-openbubbles)
-
-::::
-
-:::: details  Can OpenBubbles import existing messages? 
-* If you have a previous OpenBubbles message backup, yes. To create or restore one, go to Settings -> Backup & Restore -> Messages Backups.
-* If you do not have an OpenBubbles message backup, not at this time. OpenBubbles cannot backfill messages from iCloud.
+::: warning
+You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _**will**_ be blocked, and you will only have yourself to blame. If you share one device with over 20 users, you may experience issues.
+:::
 
 ::::
 
-:::: details  What if I do not have access to a Mac?
+:::: details What does hardware info mean?
 
-If you don't have access to a Mac, ask a friend to share their code with you. They can share it from the hardware info app on the Mac, or from settings inside OpenBubbles. One Mac can be used by up to 20 users (unlimited logins).
+See [Activation -> What is hardware info?](/quickstart.html#what-is-hardware-info).
 
 ::::
 
-:::: details  Does the Mac need to stay online?;
+:::: details How can I obtain hardware info?
+
+See [Activation](/quickstart.html#activate-openbubbles).
+
+::::
+
+:::: details Does the Mac need to stay online?;
 
 No! Once you have setup OpenBubbles, feel free to turn off, discard, or do anything you wish with your Mac. Keep in mind the physical Mac may still be useful for troubleshooting.
 
 ::::
 
-:::: details  What does "prevent sharing" do?
+:::: details What if I do not have access to a Mac?
+
+If you don't have access to a Mac, ask a friend to share their code with you. They can share it from the hardware info app on the Mac, or from settings inside OpenBubbles. See [Activation -> Option B](/quickstart.html#step-2-activate-openbubbles)
+
+::::
+
+:::: details What does "prevent sharing" do?
 
 * Enabling "prevent sharing" applies a few restrictions to generated codes:
 * Can only be used once (text codes only)
@@ -40,21 +53,32 @@ No! Once you have setup OpenBubbles, feel free to turn off, discard, or do anyth
 
 ::::
 
-:::: details  Is OpenBubbles safe to use?&#x20;
+:::: details Will the Mac I use have access to my account?
+No. OpenBubbles impersonates the Mac, and the Mac is not even aware of the login and doesn't have any of the associated keys. If you see the Mac logged in on your Apple ID page, you are seeing OpenBubbles.
 
-Everything happens locally, on your phone. Anything that happens is strictly between you and Apple. An immense effort has been made to ensure a reliable and safe experience. That being said, iMessage is a complex and changing system, and every situation cannot be predicted. Most issues will only affect OpenBubbles, and will not affect other devices or your account. In extremely rare cases, your account may be temporarily (day or two) or permanently blocked. In permanent cases, a call with Apple support will usually lift the block.
-::: warning
-You are responsible for who you share your hardware identifiers with. If someone uses your hardware identifiers to send mass spam, your device _**will**_ be blocked, and you will only have yourself to blame. If you share one device with over 20 users, you may experience issues.
+::::
+
+:::: details Can I use a VM with OpenBubbles? <Badge type="danger" text="Caution" />
+::: danger
+**Do not use data from a virtual machine.** **No**, it doesn't matter that iMessage works in the VM. **No**, your generated data is not "special" or "approved". Apple *knows* your hardware info is phony and any success you on the VM get is Apple being nice. Register another time with OB and there is a decent chance your account will be banned. You have been warned.
 :::
 
 ::::
 
-:::: details  I am having issues logging into my Apple Account
+:::: details Can I register my phone number with OpenBubbles? <Badge type="danger" text="Caution" />
+
+Activation with a phone number is possible but **not recommended for new users** and requires significant setup. See [Activation -> Option C](/quickstart.html#step-2-activate-openbubbles).
+
+::::
+
+## Activation FAQ
+
+:::: details I am having issues logging into my Apple Account
 To potentially resolve this issue, go to https://account.apple.com/, and delete any duplicate devices and try again.
 
 ::::
 
-:::: details  Disable Foreground Service Notification
+:::: details Disable Foreground Service Notification
 This notification is not needed for OpenBubbles to function.
 
 To disable, either:
@@ -71,21 +95,46 @@ All the methods should end on a page like this:
 
 ::::
 
-:::: details  Can I use a VM with OpenBubbles?
-::: danger
-**Do not use data from a virtual machine.** **No**, it doesn't matter that iMessage works in the VM. **No**, your generated data is not "special" or "approved". Apple *knows* your hardware info is phony and any success you on the VM get is Apple being nice. Register another time with OB and there is a decent chance your account will be banned. Don't say I didn't warn you.
-:::
+:::: details Why are contacts I know are using iMessage showing up green?
+
+This means you are throttled by Apple. Wait a few hours/days and try again.
+* If you recently registered, this can be normal.
+* If you have texted many people (group chat or otherwise) you may have to wait a few days or weeks for Apple to raise your limit.
 
 ::::
 
-:::: details  Will the Mac I use have access to my account?
-No. OpenBubbles impersonates the Mac, and the Mac is not even aware of the login and doesn't have any of the associated keys. If you see the Mac logged in on your Apple ID page, you are seeing OpenBubbles.
+:::: details I see "Verification Failed" under some messages. What does this mean?
+This indicates OpenBubbles could not verify the identity of the sender when the message was received. This can be caused for a few reasons:
+* You had a poor connection at the time and Apple's keyserver could not be contacted
+* You are being rate-limited by Apple
+* \[Highly unlikely\] An attacker has compromised APS (but not the keyserver) and is attempting to send a message from an identity that isn't theirs.
 
 ::::
 
-:::: details  Can I register my phone number with OpenBubbles?
+:::: details Why can't I send or receive messages?
 
-If you have an iPhone running the relay app, yes. The phone must stay online at all times. Enter the relay code on the hardware identifier screen, and you will be prompted to register your number. Please refer to the [Phone Number Registration](pnr) page for more information.
+* Running clear identity cache (Go to Settings -> Developer Tools) - This may help with sending messages.
+* Make sure iMessage and Facetime is disabled and you are logged out of iCloud if you are using an iPhone.
+* You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method and try again.
+* Advanced Data Protection is enabled - Disable this option
+* Contact Key Verification is enabled - Disable this option
+* Your Apple Account/Hardware has been throttled/banned/blocked by Apple - Visit this [site](https://rentry.org/applebans) to learn more. You may need to create a new account.
+
+Contact us on [Discord](https://discord.gg/98fWS4AQqN) if issues persist.
+
+::::
+
+:::: details Why can't I see my messages sent on OpenBubbles on other Apple devices, even though my Apple Account is linked?
+
+This is a known issue and fixes itself after 24 hours.
+
+::::
+
+## Platform Features FAQ
+
+:::: details  Can OpenBubbles import existing messages? 
+* If you have a previous OpenBubbles message backup, yes. To create or restore one, go to Settings -> Backup & Restore -> Messages Backups.
+* If you do not have an OpenBubbles message backup, not at this time. OpenBubbles cannot backfill messages from iCloud.
 
 ::::
 
@@ -104,43 +153,8 @@ No, at this time only receiving is supported. However, you can contribute media 
 
 ::::
 
-:::: details  Does OpenBubbles work with FaceTime?
+:::: details Does OpenBubbles work with FaceTime?
 
 Yes! Incoming FaceTime calls should ring automatically. You can see recent FaceTime calls or place one yourself by opening the FaceTime under the three-dot menu.
-
-::::
-
-:::: details  Why are contacts I know are using iMessage showing up green?
-
-This means you are throttled by Apple. Wait a few hours/days and try again.
-* If you recently registered, this can be normal.
-* If you have texted many people (group chat or otherwise) you may have to wait a few days or weeks for Apple to raise your limit.
-
-::::
-
-:::: details  I see "Verification Failed" under some messages. What does this mean?
-This indicates OpenBubbles could not verify the identity of the sender when the message was received. This can be caused for a few reasons:
-* You had a poor connection at the time and Apple's keyserver could not be contacted
-* You are being rate-limited by Apple
-* \[Highly unlikely\] An attacker has compromised APS (but not the keyserver) and is attempting to send a message from an identity that isn't theirs.
-
-::::
-
-:::: details  Why can't I send or receive messages?
-
-* Running clear identity cache (Go to Settings -> Developer Tools) - This may help with sending messages.
-* Make sure iMessage and Facetime is disabled and you are logged out of iCloud if you are using an iPhone.
-* You are deregistered - Check your registration status and renewal time in your profile settings and check your registration method and try again.
-* Advanced Data Protection is enabled - Disable this option
-* Contact Key Verification is enabled - Disable this option
-* Your Apple Account/Hardware has been throttled/banned/blocked by Apple - Visit this [site](https://rentry.org/applebans) to learn more. You may need to create a new account.
-
-Contact us on [Discord](https://discord.gg/98fWS4AQqN) if issues persist.
-
-::::
-
-:::: details  Why can't I see my messages sent on OpenBubbles on other Apple devices, even though my Apple Account is linked?
-
-This is a known issue and fixes itself after 24 hours.
 
 ::::
