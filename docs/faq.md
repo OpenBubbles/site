@@ -12,7 +12,7 @@ See [activation](/quickstart.html#activate-openbubbles)
 
 ## Can OpenBubbles import existing messages? 
 * If you have a previous OpenBubbles message backup, yes. To create or restore one, go to Settings -> Backup & Restore -> Messages Backups.
-* If you do not have an OpenBubbles message backup, not at this time. OpenBubbles cannot backfill messages from iCloud.
+* If you do not have an OpenBubbles message backup, you can restore messages by going to your profile -> Messages in iCloud.
 
 ## What if I do not have access to a Mac?
 
@@ -69,7 +69,6 @@ If you have an iPhone running the relay app, yes. The phone must stay online at 
 ## Does OpenBubbles work with FindMy?
 
 Yes! Access the Find My page from the top 3 dots on the main screen. If no Find My option appears, you need to re-log in. Choose "Change Hardware" in settings.
-* AirTags are not supported
 * Sharing live location with other users is not supported
 * Receiving shared locations through Find My and iMessage is supported
 * Tracking other devices is supported
