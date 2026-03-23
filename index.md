@@ -205,7 +205,11 @@ features:
   <h1 v-if="!isAvailable">Get notified</h1>
   <h3 v-if="!isAvailable">All of our devices are currently allocated, but more are coming soon!</h3>
   <h1 v-if="isAvailable">Be a Blue Bubble</h1>
-  <h3 v-if="isAvailable">Start using iMessage on Android today! <br>No Apple device required.</h3>
+  <h3 v-if="isAvailable">
+  Start using iMessage on Android today! <br>No Apple device required.
+  <div style="font-size: 17px; margin-top: 5px;">Available right now; capacity is limited.</div>
+  </h3>
+  
 
   <form v-if="!isAvailable" action="https://hw.openbubbles.app/waitlist" method="POST" @submit="checkTurnstile">
 <label for="emailimp">Email for notification</label>

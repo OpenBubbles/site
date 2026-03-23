@@ -1,9 +1,11 @@
 
 # Backup & Restore
-::: info
-OpenBubbles does not support iCloud backups.
-OpenBubbles **only** supports local backup and restore. (Only attachments under 16mb saved)
-:::
+
+## iCloud Backup
+
+Go to your three dots (top right) -> Profile -> enable "Messages in iCloud."
+
+You can choose to disable uploading attachments to save space.
 
 
 ## Backing up and restoring
