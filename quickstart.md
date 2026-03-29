@@ -19,7 +19,7 @@ outline: false
 # Self-host quickstart
 
 ::: tip
-Apple **requires** hardware info from genuine Apple hardware to use iMessage. [Join the waitlist](/#hosted-waitlist) for a ready-to-go hosted solution. OpenBubbles works **best** with a Mac.
+Apple **requires** hardware info from genuine Apple hardware to use iMessage. [Join the waitlist](/#hosted-waitlist) for a ready-to-go hosted solution that will register your Android number. OpenBubbles is easiest to set up with a Mac, however, a Mac **cannot register your Android number**.
 :::
 
 ## Install OpenBubbles
@@ -36,7 +36,7 @@ Apple **requires** hardware info from genuine Apple hardware to use iMessage. [J
 On a Mac, [download and run the QR code generator](https://github.com/OpenBubbles/Mac-Hardware-Info/releases/latest/download/Mac.Hardware.Info.zip). Scan the QR code or copy the activation code to your other device. The Mac does not need to stay online. It will not have access to your Apple Account.
 
 ::: info
-Your Mac can be shared with **up to 20 friends** with the App. However, it cannot register your phone number.
+Your Mac can be shared with **up to 20 friends** with the App. However, it **cannot register your Android number.**
 :::
 
 ### From another device (Mac Hardware only)
