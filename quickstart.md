@@ -19,7 +19,7 @@ outline: false
 # Self-host quickstart
 
 ::: tip
-Apple **requires** hardware info from genuine Apple hardware to use iMessage. [Get started now](/#hosted-waitlist) with a ready-to-go hosted solution that will register your Android number. OpenBubbles is easiest to set up with a Mac, however, a Mac **cannot register your Android number**.
+Apple **requires** hardware info from genuine Apple hardware to use iMessage. [Get started now](/#hosted-waitlist) with a ready-to-go hosted solution that will register your Android number. OpenBubbles is easiest to self host with a Mac, however, a Mac **cannot register your Android number**.
 :::
 
 ## Install OpenBubbles
