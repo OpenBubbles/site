@@ -39,6 +39,10 @@ On a Mac, [download and run the QR code generator](https://github.com/OpenBubble
 Your Mac can be shared with **up to 20 friends** with the App. However, it **cannot register your Android number.**
 :::
 
+::: danger
+Do not use a virtual machine to activate OpenBubbles. [Learn more](/docs/faq#can-i-use-a-vm-with-openbubbles)
+:::
+
 ### From another device (Mac Hardware only)
 Open OpenBubbles, then go to Settings -> Your Mac.
 
