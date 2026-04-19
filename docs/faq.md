@@ -56,7 +56,7 @@ All the methods should end on a page like this:
 
 ## Can I use a VM with OpenBubbles?
 ::: danger
-**Do not use data from a virtual machine.** **No**, it doesn't matter that iMessage works in the VM. **No**, your generated data is not "special" or "approved". Apple *knows* your hardware info is phony and any success you on the VM get is Apple being nice. Register another time with OB and there is a decent chance your account will be banned. Don't say I didn't warn you.
+**Do not use data from a virtual machine.** **No**, it doesn't matter that iMessage works in the VM. **No**, your virtual machine is not "special" or "approved". Apple *knows* your virtual machine is phony and any success you on the VM get is Apple being nice. Register another time with OB and there is a decent chance your account will be banned. Don't say I didn't warn you.
 :::
 
 ## Will the Mac I use have access to my account?
