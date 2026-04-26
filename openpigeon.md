@@ -59,11 +59,11 @@ hero:
 <div class="swiper">
     <div style="padding-left: 14px; width: 0;"> </div>
     <div>
-        <img src="/op-screenshots/cuppong.jpg" alt="Cup Pong"/>
+        <img src="/op-screenshots/cuppong.png" alt="Cup Pong"/>
         <span>Cup Pong</span>
     </div>
     <div>
-        <img src="/op-screenshots/basketball.jpg" alt="Basketball"/>
+        <img src="/op-screenshots/basketball.png" alt="Basketball"/>
         <span>Basketball</span>
     </div>
     <div>
@@ -71,7 +71,7 @@ hero:
         <span>Crazy 8</span>
     </div>
     <div>
-        <img src="/op-screenshots/archery.jpg" alt="Archery"/>
+        <img src="/op-screenshots/archery.png" alt="Archery"/>
         <span>Archery</span>
     </div>
     <div>
@@ -79,23 +79,63 @@ hero:
         <span>Wordhunt</span>
     </div>
     <div>
-        <img src="/op-screenshots/battleship.jpg" alt="Battleship"/>
+        <img src="/op-screenshots/battleship.png" alt="Battleship"/>
         <span>Battleship</span>
     </div>
     <div>
-        <img src="/op-screenshots/checkers.jpg" alt="Checkers"/>
+        <img src="/op-screenshots/checkers.png" alt="Checkers"/>
         <span>Checkers</span>
     </div>
     <div>
-        <img src="/op-screenshots/darts.jpg" alt="Darts"/>
+        <img src="/op-screenshots/darts.png" alt="Darts"/>
         <span>Darts</span>
     </div>
     <div>
-        <img src="/op-screenshots/connect4.jpg" alt="Connect 4"/>
+        <img src="/op-screenshots/connect4.png" alt="Connect 4"/>
         <span>Connect 4</span>
     </div>
     <div>
         <img src="/op-screenshots/pool.jpg" alt="8 Ball"/>
+        <span>8 Ball</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/reversi.png" alt="Reversi"/>
+        <span>Cup Pong</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/mancala.png" alt="Mancala"/>
+        <span>Basketball</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/dots.png" alt="Dots & Boxes"/>
+        <span>Crazy 8</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/gomoku.png" alt="Gomoku"/>
+        <span>Archery</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/20questions.png" alt="20 Questions"/>
+        <span>Wordhunt</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/paintball.png" alt="Paintball"/>
+        <span>Battleship</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/filler.png" alt="Filler"/>
+        <span>Checkers</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/wordbites.png" alt="Wordbites"/>
+        <span>Darts</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/anagrams.png" alt="Anagrams"/>
+        <span>Connect 4</span>
+    </div>
+    <div>
+        <img src="/op-screenshots/chess.png" alt="Chess"/>
         <span>8 Ball</span>
     </div>
 </div>
