@@ -38,9 +38,9 @@ hero:
 .swiper-track {
 	display: flex;
 	width: max-content;
-	gap: 18px;
 	animation: swiper-scroll 45s linear infinite;
 	will-change: transform;
+	transform: translate3d(0, 0, 0);
 }
 
 .swiper:hover .swiper-track {
@@ -51,6 +51,7 @@ hero:
 	position: relative;
 	flex: 0 0 auto;
 	width: auto;
+	margin-right: 18px;
 	text-align: center;
 	font-weight: 600;
 	font-size: 16px;
@@ -107,10 +108,10 @@ hero:
 
 @keyframes swiper-scroll {
 	from {
-		transform: translateX(0);
+		transform: translate3d(0, 0, 0);
 	}
 	to {
-		transform: translateX(-50%);
+		transform: translate3d(-50%, 0, 0);
 	}
 }
 
