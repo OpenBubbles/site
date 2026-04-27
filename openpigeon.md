@@ -617,7 +617,7 @@ hero:
 		</div>
 		<div class="faq-item">
 			<strong>Can I play with iPhone friends?</strong>
-			<span>Yes. That is the whole point: playing supported GamePigeon-style games from Android.</span>
+			<span>Yes. That is the whole point: playing supported GamePigeon-compatible games from Android.</span>
 		</div>
 		<div class="faq-item">
 			<strong>Are more games being added?</strong>
