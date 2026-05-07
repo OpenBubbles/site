@@ -514,6 +514,7 @@ hero:
 <div class="swiper-card"><img src="/op-screenshots/reversi.webp"/><span>Reversi</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/mancala.webp"/><span>Mancala</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/dots.webp"/><span>Dots & Boxes</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/tanks.webp"/><span>Tanks</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/gomoku.webp"/><span>Gomoku</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/20questions.webp"/><span>20 Questions</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/paintball.webp"/><span>Paintball</span></div> 
@@ -533,7 +534,8 @@ hero:
 <div class="swiper-card"><img src="/op-screenshots/pool.webp"/><span>8 Ball</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/reversi.webp"/><span>Reversi</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/mancala.webp"/><span>Mancala</span></div> 
-<div class="swiper-card"><img src="/op-screenshots/dots.webp"/><span>Dots & Boxes</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/dots.webp"/><span>Dots & Boxes</span></div>
+<div class="swiper-card"><img src="/op-screenshots/tanks.webp"/><span>Tanks</span></div>  
 <div class="swiper-card"><img src="/op-screenshots/gomoku.webp"/><span>Gomoku</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/20questions.webp"/><span>20 Questions</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/paintball.webp"/><span>Paintball</span></div> 
@@ -562,6 +564,7 @@ hero:
 		<div class="supported-game-pill"><span>Reversi</span></div>
 		<div class="supported-game-pill"><span>Mancala</span></div>
 		<div class="supported-game-pill"><span>Dots & Boxes</span></div>
+		<div class="supported-game-pill"><span>Tanks</span></div>
 		<div class="supported-game-pill"><span>Gomoku</span></div>
 		<div class="supported-game-pill"><span>20 Questions</span></div>
 		<div class="supported-game-pill"><span>Paintball</span></div>
