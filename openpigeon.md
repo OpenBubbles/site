@@ -514,6 +514,7 @@ hero:
 <div class="swiper-card"><img src="/op-screenshots/reversi.webp"/><span>Reversi</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/mancala.webp"/><span>Mancala</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/dots.webp"/><span>Dots & Boxes</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/tanks.webp"/><span>Tanks</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/gomoku.webp"/><span>Gomoku</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/20questions.webp"/><span>20 Questions</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/paintball.webp"/><span>Paintball</span></div> 
@@ -521,6 +522,10 @@ hero:
 <div class="swiper-card"><img src="/op-screenshots/wordbites.webp"/><span>Wordbites</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/anagrams.webp"/><span>Anagrams</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/chess.webp"/><span>Chess</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/knockout.webp"/><span>Knockout</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/golf.webp"/><span>Mini Golf</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/shuffle.webp"/><span>Shuffleboard</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/9ball.webp"/><span>9 Ball</span></div>
 <div class="swiper-card"><img src="/op-screenshots/cuppong.webp"/><span>Cup Pong</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/basketball.webp"/><span>Basketball</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/crazy8.webp"/><span>Crazy 8</span></div> 
@@ -533,7 +538,8 @@ hero:
 <div class="swiper-card"><img src="/op-screenshots/pool.webp"/><span>8 Ball</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/reversi.webp"/><span>Reversi</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/mancala.webp"/><span>Mancala</span></div> 
-<div class="swiper-card"><img src="/op-screenshots/dots.webp"/><span>Dots & Boxes</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/dots.webp"/><span>Dots & Boxes</span></div>
+<div class="swiper-card"><img src="/op-screenshots/tanks.webp"/><span>Tanks</span></div>  
 <div class="swiper-card"><img src="/op-screenshots/gomoku.webp"/><span>Gomoku</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/20questions.webp"/><span>20 Questions</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/paintball.webp"/><span>Paintball</span></div> 
@@ -541,6 +547,10 @@ hero:
 <div class="swiper-card"><img src="/op-screenshots/wordbites.webp"/><span>Wordbites</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/anagrams.webp"/><span>Anagrams</span></div> 
 <div class="swiper-card"><img src="/op-screenshots/chess.webp"/><span>Chess</span></div>
+<div class="swiper-card"><img src="/op-screenshots/knockout.webp"/><span>Knockout</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/golf.webp"/><span>Mini Golf</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/shuffle.webp"/><span>Shuffleboard</span></div> 
+<div class="swiper-card"><img src="/op-screenshots/9ball.webp"/><span>9 Ball</span></div>
 	</div>
 </div>
 
@@ -559,9 +569,11 @@ hero:
 		<div class="supported-game-pill"><span>Darts</span></div>
 		<div class="supported-game-pill"><span>Connect 4</span></div>
 		<div class="supported-game-pill"><span>8 Ball</span></div>
+		<div class="supported-game-pill"><span>9 Ball</span></div>
 		<div class="supported-game-pill"><span>Reversi</span></div>
 		<div class="supported-game-pill"><span>Mancala</span></div>
 		<div class="supported-game-pill"><span>Dots & Boxes</span></div>
+		<div class="supported-game-pill"><span>Tanks</span></div>
 		<div class="supported-game-pill"><span>Gomoku</span></div>
 		<div class="supported-game-pill"><span>20 Questions</span></div>
 		<div class="supported-game-pill"><span>Paintball</span></div>
@@ -569,6 +581,9 @@ hero:
 		<div class="supported-game-pill"><span>Wordbites</span></div>
 		<div class="supported-game-pill"><span>Anagrams</span></div>
 		<div class="supported-game-pill"><span>Chess</span></div>
+		<div class="supported-game-pill"><span>Knockout</span></div>
+		<div class="supported-game-pill"><span>Mini Golf</span></div>
+		<div class="supported-game-pill"><span>Shuffleboard</span></div>
 	</div>
 </div>
 
@@ -620,7 +635,7 @@ hero:
 			<span>Yes. That is the whole point: playing supported GamePigeon-compatible games from Android.</span>
 		</div>
 		<div class="faq-item">
-			<strong>Are more games being added?</strong>
+			<strong>Can I add my own game to OpenPigeon?</strong>
 			<span>Yes. OpenPigeon is open source, so more games and improvements can be added over time.</span>
 		</div>
 	</div>
