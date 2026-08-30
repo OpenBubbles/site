@@ -9,12 +9,7 @@ Learn how to get your phone number working on iMessage. The app will default to 
 You can also choose to skip logging in with Apple Account. This may lead to less issues in some cases.
 
 ## Pre-Setup | Do this first
-Make sure iMessage andFacetime is disabled on your iPhone. You also need to disable Advanced Data Protection and Contact Key Verification.
-
-## Sim / eSim Swaping Methods
-
-Sim swapping is a method which involves using an iPhone to register a number, and then using OpenBubbles normally with Mac hardware data. You can follow the same guides used for BlueBubbles. However, this method can be even more unreliable than OB.
-[All These BlueBubbles | Sim Swapping Guide](https://guide.atbluebubbles.com/ )
+Disable Advanced Data Protection and Contact Key Verification.
 
 ## Relay Apps
 Keep the device on at all times and connected to Wi-Fi in order to keep your number registered. 
@@ -29,7 +24,7 @@ Guide 1 - TrollStore
 1. Install TrollStore on your device (iOS 14 - iOS 17.0) - [TrollStore Guide](https://ios.cfw.guide/installing-trollstore/)
 2. If you have TestFlight installed, delete it.
 3. Sideload JJTech's - [Validation Relay App](https://github.com/JJTech0130/ValidationRelay/releases) TIPA file in TrollStore.
-4. For best results, sign out of any Apple ID on the device.
+4. For best results, sign out of any Apple ID on the device.  Disable Facetime and iMessage.
 5. Input the code from the relay app in OpenBubbles (if you are changing from existing hardware, go to Settings -> Change Hardware).
 6. Enable Keep Awake and Dim Display
 7.  Optional Steps  - If you are jailbroken you can install the following tweaks (may not be compatible with your iOS version):
@@ -44,7 +39,7 @@ If you are on older iOS versions (10 - 14) and jailbroken follow these steps:
 1. Download Copperboy100's - [RelayServer](https://github.com/OpenBubbles/relayserver/releases). -arm is for iOS 10 - 14 (rootful), -arm64 is for iOS 15 - 16.5 (rootless)
 2. Install RelayServer 
 3. Retrieve the relay code in /var/mobile/config.json. You can find this using an app like Filza.
-4. For best results, sign out of any Apple ID on the device.
+4. For best results, sign out of any Apple ID on the device.  Disable Facetime and iMessage.
 5. Input the code from the relay app in OpenBubbles (if you are changing from existing hardware, go to Settings -> Change Hardware).
 
 ## DO NOT USE
