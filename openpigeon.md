@@ -592,7 +592,7 @@ hero:
 <div class="next-step-section" id="are-you-ready-to-go">
 	<h2>Ready to play?</h2>
 	<p>
-		Once OpenBubbles is set up, install OpenPigeon and start playing supported games with your iPhone friends.
+		Once OpenBubbles is set up, install OpenPigeon and start playing games with your iPhone friends.
 	</p>
 	<div class="next-step-actions">
 		<a href="/index.html" class="secondary-link">Set up OpenBubbles first</a>
@@ -603,28 +603,7 @@ hero:
 </div>
 
 <div class="page-info-section">
-	<h2>More games coming soon</h2>
-	<p>
-		OpenPigeon is growing quickly, with more games planned and community contributions welcome.
-	</p>
-	<div class="info-card-grid">
-		<div class="info-card">
-			<h3>More classics</h3>
-			<p>We’re actively growing the game library with popular, social games that make playing with friends over iMessage feel seamless.</p>
-		</div>
-		<div class="info-card">
-			<h3>Better Android play</h3>
-			<p>The goal is to make playing with iPhone friends feel smooth, simple, and natural from Android.</p>
-		</div>
-		<div class="info-card">
-			<h3>Open source progress</h3>
-			<p>Developers can help improve existing games, polish UI, and add new games over time.</p>
-		</div>
-	</div>
-</div>
-
-<div class="page-info-section">
-	<h2>Quick questions</h2>
+	<h2>FAQ</h2>
 	<div class="faq-list">
 		<div class="faq-item">
 			<strong>Do I need OpenBubbles?</strong>
@@ -636,7 +615,7 @@ hero:
 		</div>
 		<div class="faq-item">
 			<strong>Can I add my own game to OpenPigeon?</strong>
-			<span>Yes. OpenPigeon is open source, so more games and improvements can be added over time.</span>
+			<span>Yes. OpenPigeon is source-available, so more games and improvements can be added over time.</span>
 		</div>
 	</div>
 </div>
@@ -644,7 +623,7 @@ hero:
 <div class="contribute-card">
 	<h2>Contribute to OpenPigeon</h2>
 	<p>
-		OpenPigeon is open source. If you are a developer, you can help improve the app, polish existing games, or contribute new ones.
+		OpenPigeon is source-available. If you are a developer, you can help improve the app, polish existing games, or contribute new ones.
 	</p>
 	<a href="https://github.com/OpenBubbles/OpenPigeon" class="github-link">
 		<span>View on GitHub</span>
