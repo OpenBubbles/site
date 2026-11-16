@@ -225,7 +225,7 @@ features:
 
 <a v-if="isAvailable" href="https://play.google.com/store/apps/details?id=com.openbubbles.messaging"><img src="/google_play_badge.png" class="getbtn" /></a>
 
-There is a $16.99 USD monthly fee for OpenBubbles Hosted with a $1.00 7-day trial. <br> <a href="/quickstart.html">Self-host without your Android number for free.</a>
+Give OpenBubbles Hosted a try for 7 days for just $1.00. After that, it’s $16.99 USD per month. <br> <a href="/quickstart.html">Self-host without your Android number for free.</a>
 <div class="background" />
 </div>
 
