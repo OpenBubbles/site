@@ -19,7 +19,7 @@ outline: false
 To learn more our app, [visit our homepage](/) or [check out the FAQ](/docs/faq.md)
 
 To learn about how OpenBubbles works, check out:
-* [How OpenBubbles Hosted Works](/blog/openbubbles_hosted.md)
+* [How OpenBubbles Hosted Works](/docs/openbubbles_hosted.md)
 * [How Beeper Mini Works](https://blog.beeper.com/2023/12/05/how-beeper-mini-works/comment-page-1/) (We follow the same principles)
 * [The source code](https://github.com/OpenBubbles/openbubbles-app)
 
