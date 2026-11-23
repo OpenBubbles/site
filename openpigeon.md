@@ -30,7 +30,7 @@ hero:
 </div>
 
 <div class="hero-note">
-	Requires OpenBubbles (iMessage) to play with friends.
+	Requires <a href="/">OpenBubbles</a> (iMessage) to play with friends.
 </div>
 
 <style scoped>

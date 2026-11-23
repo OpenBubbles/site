@@ -8,10 +8,9 @@ export default defineConfig({
     logo: '/icon.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'OpenBubbles', link: '/' },
       { text: 'OpenPigeon', link: '/openpigeon' },
       { text: 'Self-host', link: '/quickstart' },
-      { text: 'Blog', link: '/blog' },
       { text: 'FAQ & docs', link: '/docs/faq' },
     ],
 
@@ -30,6 +29,7 @@ export default defineConfig({
           { text: 'Renewal System', link: '/docs/renewal' },
           { text: 'Backup and Restore', link: '/docs/backupandrestore' },
           { text: 'Troubleshooting', link: '/docs/troubleshooting' },
+          { text: 'How Hosted Works', link: '/docs/openbubbles_hosted' },
         ]
       },
       {

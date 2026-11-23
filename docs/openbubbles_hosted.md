@@ -1,12 +1,3 @@
----
-sidebar: false
-
-prev: false
-next: false
-aside: false
-outline: false
----
-
 # How OpenBubbles Hosted Works
 April 15 2025
 
